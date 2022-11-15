@@ -1,7 +1,6 @@
 # React Hook - useState
 
 - [Slides](https://www.origamid.com/slide/react-completo/#/0301-usestate/1)
-- Demo
 - Exercício:
 
 ```
